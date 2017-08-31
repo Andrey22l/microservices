@@ -1,0 +1,10 @@
+## YAML Template.
+---
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/Andrey22l/cloud
+server:
+  port: 8001

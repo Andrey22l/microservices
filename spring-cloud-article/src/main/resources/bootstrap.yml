@@ -1,0 +1,8 @@
+## YAML Template.
+---
+spring:
+  application:
+    name: spring-cloud-article
+  cloud:
+    config:
+      uri: http://localhost:8001    
